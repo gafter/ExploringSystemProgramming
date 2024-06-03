@@ -10,7 +10,7 @@ He had a Raspberry Pi - a computer about the size of a deck of cards. You can ge
 
 The exercises we'll start with is a series of blog posts starting at
 
-- https://thinkingeek.com/series/Arm-assembler-raspberry-pi/
+- https://thinkingeek.com/series/arm-assembler-raspberry-pi/
 
 There are other good (actually, much better) courses and tutorials that cover the same topic:
 
@@ -34,7 +34,7 @@ Some Arm resources:
 
 - **Arm developer website**: https://developer.Arm.com/
 - **Arm assembler reference**: https://developer.Arm.com/documentation/dui0489/latest/
-- **Arm architecture learning resource**: https://developer.Arm.com/documentation/102404/0201/?lang=en
+- **Arm architecture learning resource**: https://developer.arm.com/documentation/102404/0201/?lang=en
 - **Introduction to Arm asembly**: https://azeria-labs.com/writing-arm-assembly-part-1/
 
 Other references:
