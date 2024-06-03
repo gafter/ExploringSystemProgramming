@@ -34,7 +34,14 @@ Some Arm resources:
 
 - **Arm developer website**: https://developer.Arm.com/
 - **Arm assembler reference**: https://developer.Arm.com/documentation/dui0489/latest/
-- **Arm architecture reference**: https://developer.Arm.com/documentation/102404/0201/?lang=en
+- **Arm architecture learning resource**: https://developer.Arm.com/documentation/102404/0201/?lang=en
+- **Introduction to Arm asembly**: https://azeria-labs.com/writing-arm-assembly-part-1/
+
+Other references:
+
+- **Arm architecture reference**: https://developer.arm.com/documentation/ddi0487/latest/ (pdf)
+- **Arm instructions quick reference**: https://pages.cs.wisc.edu/~markhill/restricted/arm_isa_quick_reference.pdf (best if you have a printer)
+- **A book, which is not free**: https://www.oreilly.com/library/view/the-definitive-guide/9780124080829
 
 ### Chapter 1
 
