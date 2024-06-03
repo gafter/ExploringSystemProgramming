@@ -20,7 +20,7 @@ Which is from the book *Introduction to Computer Organization: ARM Assembly Lang
 
 We'll write and run our programs using a beautiful online tool that you can find at
 
-- **Online Arm emulator**: https://cpulator.01xz.net/?sys=Arm
+- **Online Arm emulator**: https://cpulator.01xz.net/?sys=arm
 
 If you want to run something locally, there is also a tool you can install and run on your machine
 
